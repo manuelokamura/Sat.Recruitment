@@ -10,5 +10,5 @@
 ## ORM EF
 ### Use the next command into the console, to create the inicial SQL tables neededs:
 
-<clipboard-copy> add-migration inicial -Context SatContext
-<clipboard-copy> update-database -Context SatContext
+### add-migration inicial -Context SatContext
+### update-database -Context SatContext
