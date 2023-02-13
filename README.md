@@ -5,10 +5,17 @@
 ## Docker 
 ### We Need Docker To run this API, to create the conteiners run the next commnad into the console :
 
-<clipboard-copy> docker-compose -up
+```
+docker-compose -up
+```
 
 ## ORM EF
-### Use the next command into the console, to create the inicial SQL tables neededs:
+## Use the next command into the console, to create the inicial SQL tables neededs:
 
-### add-migration inicial -Context SatContext
-### update-database -Context SatContext
+```
+add-migration inicial -Context SatContext
+```
+
+```
+update-database -Context SatContext
+```
