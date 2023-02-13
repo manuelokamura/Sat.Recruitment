@@ -1,0 +1,14 @@
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\bin\Debug\net6.0\Sat.Recruitment.Models.deps.json
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\bin\Debug\net6.0\Sat.Recruitment.Models.runtimeconfig.json
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\bin\Debug\net6.0\Sat.Recruitment.Models.dll
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\bin\Debug\net6.0\Sat.Recruitment.Models.pdb
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.dll
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\refint\Sat.Recruitment.Models.dll
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.pdb
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\Sat.Recruitment.Models.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Escritorio\PARAMONT\NEW\Sat.Recruitment.Models\obj\Debug\net6.0\ref\Sat.Recruitment.Models.dll
